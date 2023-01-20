@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning TypeScript, and many other cool stuff
+- 💬 Ask me about anything
+- 📫 How to reach me: kevinchristianto22@gmail.com
 
 <!--
 **kevinchristianto/kevinchristianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
