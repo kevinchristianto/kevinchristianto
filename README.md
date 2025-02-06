@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning TypeScript, and many other cool stuff
-- 💬 Ask me about anything
+- 🌱 I’m currently learning anything that my boss told me
+- 💬 Ask me about nothing, I'm tired
 - 📫 How to reach me: kevinchristianto22@gmail.com
 
 <!--
